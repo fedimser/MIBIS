@@ -1,0 +1,9 @@
+D:\Projects\Science\MIBIS\MIBIS\bin\Debug\MIBIS.exe
+D:\Projects\Science\MIBIS\MIBIS\bin\Debug\MIBIS.pdb
+D:\Projects\Science\MIBIS\MIBIS\obj\x86\Debug\MIBIS.Form1.resources
+D:\Projects\Science\MIBIS\MIBIS\obj\x86\Debug\MIBIS.Properties.Resources.resources
+D:\Projects\Science\MIBIS\MIBIS\obj\x86\Debug\MIBIS.exe
+D:\Projects\Science\MIBIS\MIBIS\obj\x86\Debug\MIBIS.pdb
+D:\Projects\Science\MIBIS\MIBIS\obj\x86\Debug\MIBIS.Form2.resources
+D:\Projects\Science\MIBIS\MIBIS\obj\x86\Debug\MIBIS.csprojResolveAssemblyReference.cache
+D:\Projects\Science\MIBIS\MIBIS\obj\x86\Debug\MIBIS.csproj.GenerateResource.Cache
